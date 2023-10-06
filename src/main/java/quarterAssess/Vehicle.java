@@ -25,4 +25,5 @@ public abstract class Vehicle extends Product{
     }
     public abstract void printVehicleType();
 
+
 }
